@@ -43,5 +43,3 @@ pos_fullinfo <- function(infile, outfile) {
 		#get rid of +3 charged candidates
 	write.csv(data2 ,file=outfile) 
 }
-
-#test github
